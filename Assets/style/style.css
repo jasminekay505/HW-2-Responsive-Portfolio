@@ -1,6 +1,35 @@
+/* Background image and body formatting */
 body{
     padding:0;
     margin:0;
-    background-image:../background_image.jpg;
-
+    background-image:url(../background_image.jpg);
+    font-family:Georgia, 'Times New Roman', Times, serif;
 }
+/* NavBar Styling */
+.navbar-brand{
+    padding: 10px 20px;
+    background-color: #4aaaa5;
+    color: white !important;
+    font-size:32px;
+    font-weight: bold;
+    margin-left: 5%;
+}
+
+/*About Me Styling */
+h2{
+    color:#4aaaa5;
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom: 10px;
+    border-bottom-style: solid;
+    border-bottom-color: gray;
+}
+
+#about_me{
+    background-color: white;
+    margin: 20px;
+    margin-left: 5%;
+    padding: 20px;
+    max-width: 960px;
+}
+
