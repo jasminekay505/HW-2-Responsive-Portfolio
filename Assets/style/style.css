@@ -15,29 +15,29 @@ body{
     margin-left: 5%;
 }
 
-/*About Me Styling */
+/* Page Header Stying */
 h2{
     color:#4aaaa5;
     font-weight: bold;
     font-size: 30px;
-    padding-bottom: 10px;
+    padding: 10px;
     border-bottom-style: solid;
-    border-bottom-color: gray;
+    border-bottom-color: lightgray;
 }
 
+/* Headshot Styling */
 .headshot{
     width:200px;
     height: auto;
     margin-right: 10px;
+    float:left;
 }
 
-/* Applies to Portfolio and Contact Containers */
-.about_me{
+/* Main Content Styling applies to About, Portfolio and Contact */
+.main{
     background-color: white;
-    margin-top:20px;
-    margin-bottom: 100px;
-    margin-left: 5%;
-    padding: 20px;
+    margin:20px;
+    
 }
 
 /* Footer styling */
