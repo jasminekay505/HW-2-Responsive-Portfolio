@@ -57,4 +57,11 @@ footer{
     margin: 20px;
 }
 
+.btn-primary {
+    background-color: #4aaaa5;
+    color:white;
+    border-color: #4aaaa5;
+    border-radius: 0;
+}
+
 
