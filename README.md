@@ -3,6 +3,7 @@
 This application is a portfolio that is responsive on many different sizes of devices. It includes an About Me, Contact and Portfolio Page. This application utilizes Bootstrap CSS Framework for styling and responsiveness. 
 
 *Link to Application:*
+
 file:///C:/Users/jasmi/Documents/HW/HW-2-Responsive-Portfolio/
 
 *Screenshots of Application:*
