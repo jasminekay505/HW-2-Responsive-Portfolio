@@ -11,7 +11,6 @@ body{
     background-color: #4aaaa5;
     color: white !important;
     font-weight: bold;
-    margin-left: 5%;
 }
 
 /* Page Header Stying */
@@ -65,10 +64,4 @@ footer{
     color:white;
     border-color: #4aaaa5;
     border-radius: 0;
-}
-
-@media (min-width: 576){
-    .navbar-brand{
-        font-size:20;
-    }
 }
