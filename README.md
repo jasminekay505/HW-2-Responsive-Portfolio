@@ -4,7 +4,7 @@ This application is a portfolio that is responsive on many different sizes of de
 
 *Link to Application:*
 
-file:///C:/Users/jasmi/Documents/HW/HW-2-Responsive-Portfolio/
+https://jasminekay505.github.io/HW-2-Responsive-Portfolio/
 
 *Screenshots of Application:*
 *Desktop View (992):*
