@@ -22,10 +22,9 @@ h2{
 
 /* Headshot Styling */
 .headshot{
-    width:200px;
+    width:5rem;
     height: auto;
-    margin-right: 10px;
-    float:left;
+    
 }
 
 /* Main Content Styling applies to About, Portfolio and Contact */
