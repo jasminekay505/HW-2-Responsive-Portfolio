@@ -3,13 +3,11 @@ body{
     padding:0;
     margin:0;
     background-image:url(../background_image.jpg);
-    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-family: 'Open Sans', sans-serif;
 }
 /* NavBar Styling */
 .navbar-brand{
     padding: 10px 20px;
-    background-color: #4aaaa5;
-    color: white !important;
     font-weight: bold;
 }
 
