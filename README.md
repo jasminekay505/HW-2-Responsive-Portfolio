@@ -1,10 +1,10 @@
-# HW-2-Responsive-Portfolio
+Portfolio
 
 This application is a portfolio that is responsive on many different sizes of devices. It includes an About Me, Contact and Portfolio Page. This application utilizes Bootstrap CSS Framework for styling and responsiveness. 
 
 *Link to Application:*
 
-https://jasminekay505.github.io/HW-2-Responsive-Portfolio/
+https://jasminekay505.github.io/Portfolio/
 
 *Screenshots of Application:*
 *Desktop View (992):*
