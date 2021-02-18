@@ -10,7 +10,7 @@ https://jasminekay505.github.io/Portfolio/
   * CSS (Bootstrap)
   * JavaScript
 
-# Screenshots of Application:
+# Screenshots of Application
 
 # License
 MIT
