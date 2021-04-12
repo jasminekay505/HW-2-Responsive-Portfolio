@@ -38,19 +38,6 @@ footer{
     font-size: 10px;
 }
 
-.portfolio-img {
-    max-width:75%;
-    margin-top:20px;
-    margin-bottom:20px;
-    margin-left: 20px;
-}
-
-.btn-primary {
-    background-color: #4aaaa5;
-    color:white;
-    border-color: #4aaaa5;
-    border-radius: 0;
-}
 .list-group-item { 
     border:none;
     font-size: 1rem;

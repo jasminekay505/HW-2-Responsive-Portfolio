@@ -8,7 +8,7 @@ https://jasminekay505.github.io/Portfolio/
 # Technologies Used
   * HTML
   * CSS (Bootstrap)
-  * JavaScript
+  * JavaScript (jQuery)
 
 # Screenshots of Application
 ![image](https://user-images.githubusercontent.com/74380703/108433345-b35e5a80-71fa-11eb-9e39-f6a5177614e9.png)
